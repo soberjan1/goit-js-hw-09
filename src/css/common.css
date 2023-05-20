@@ -16,3 +16,13 @@ img {
   display: block;
   max-width: 100%;
 }
+
+.timer {
+  display: flex;
+  text-align: center;
+  gap: 10px;
+  font-family: Oswald;
+  font-size: 26px;
+  color: tomato;
+  background-color: yellowgreen;
+}
